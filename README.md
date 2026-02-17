@@ -2,20 +2,35 @@
 
 ## Entrada(imputs)
 * ¿Que datos recibe el sistema?
+   Datos del administrador,            productos, precios y cantidad.
 * ¿Quien los ingresa?
+   Administradores.
 * ¿Son numeros, texto, archivos?
-
+   Numeros y texto.
+  
 ## Procesos(Throughput)
-* ¿Que hace el sistema con esos datos?
+* ¿Que hace el sistema con esos       datos?
+   Controla, organiza y gestiona       los productos.
+  
 * ¿Valida?
+   Mostrar el stock de los             productos.
+  
 * ¿Calcula?
+   Calcula la cantidad del producto    que queda y las ganancias.
+  
 * ¿Guarda?
+   Datos del Administrador, todos      los datos del producto.
 
 ## Salida(outputs)
 * ¿Que optiene el usuario?
+   Control en el inventario del        local.
+  
 * ¿Que genera el sistema?
+   Un listado de los datos de los      productos.
+  
 * ¿Permite tomar decisiones?
-
+   Si, porque notaria que productos    se venden mas y se abasteceria      de los productos necesarios.
+  
 ## Usuarios y roles
 * ¿Quien usa el sistema?
 * ¿Todos hacen lo mismo?
