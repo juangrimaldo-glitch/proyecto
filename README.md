@@ -44,5 +44,7 @@ Si, un login donde pondran digitar los datos para acceder unicamente ellos y nad
 
 ## Informacion manejada
 *¿Que datos son criticos?
-*¿Que no se puede perder?
+Permisos del usuario, los precios correctos de los productos, el nombre del producto para evitar que se duplique y la cantidad en stok para evitar que se marquen ventas inexistentes.
 
+*¿Que no se puede perder?
+las ventas realizadas, los precios y nombres establecidos para los productos.
