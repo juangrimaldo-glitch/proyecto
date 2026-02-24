@@ -35,9 +35,19 @@ Si, porque el administrador notaria que productos se venden mas y se abasteceria
 ## Usuarios y Roles
 *¿Quien usa el sitema?
 El dueño del local y un trabajador.
+*
+*
+*
 
 *¿Todos hacen lo mismo?
 Si, accederan a la misma informacion.
 
 *¿Hay permisos?
 Si, un login donde pondran digitar los datos para acceder unicamente ellos y nadie mas.
+
+## Informacion manejada
+*¿Que datos son criticos?
+Permisos del usuario, los precios correctos de los productos, el nombre del producto para evitar que se duplique y la cantidad en stok para evitar que se marquen ventas inexistentes.
+
+*¿Que no se puede perder?
+las ventas realizadas, los precios y nombres establecidos para los productos.
