@@ -1,6 +1,6 @@
 #arqutectura del sistema:tienda SC
 
-##entradas (inputs)
+## entradas (inputs)
 *¿Qué datos recibe el sistema?
  datos del admistrador ,producto, presio y cantidad.
 
