@@ -1,4 +1,4 @@
-#arqutectura del sistema:tienda SC
+## arqutectura del sistema:tienda SC
 
 ## entradas (inputs)
 *¿Qué datos recibe el sistema?
@@ -13,7 +13,7 @@
 
 
 
-##procesos(throungput)
+## procesos(throungput)
 
 *¿Qué hace el sistema con esos datos?
   controla, organiza y gestiona los productos del negocio.
@@ -27,7 +27,7 @@ calcula la cantidad de productos que queda y las ganacias.
 
 
 
-##salidas(outputs)
+## salidas(outputs)
 *¿Qué obtiene el usuario?
   control en el inventario del local.
 *¿Qué genera el sistema?
@@ -48,4 +48,7 @@ calcula la cantidad de productos que queda y las ganacias.
 
 
   
-#informacion manejada :
+## informacion manejada :
+*¿Que datos son criticos? Permisos del usuario, los precios correctos de los productos, el nombre del producto para evitar que se duplique y la cantidad en stok para evitar que se marquen ventas inexistentes.
+
+*¿Que no se puede perder? las ventas realizadas, los precios y nombres establecidos para los productos.
