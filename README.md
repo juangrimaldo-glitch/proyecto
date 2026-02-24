@@ -16,13 +16,13 @@ numeros y texto.
 ##procesos(throungput)
 
 *¿Qué hace el sistema con esos datos?
-controla, organiza y gestiona los productos.
+controla, organiza y gestiona los productos del negocio.
 * ¿Valida?
-  mostrar el stock los productos disponibles.
+  Nombre de los productos, que se usen numeros para el precio y la cantidad de stock.
 *¿Calcula?
 calcula la cantidad de productos que queda y las ganacias.
 * ¿Guarda?
-  datos del administrador, todos los datos del producto y el valor total del stock.
+  datos del administrador, todos los datos del producto .
   
 
 
@@ -40,8 +40,6 @@ si, porque el administrador notaria que productos se venden mas y se abasteseria
 *¿Hay permisos?
 
 
-* **administrador: **
-* **ususarios:***
 
   
 #informacion manejada :
