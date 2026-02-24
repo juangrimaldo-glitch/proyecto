@@ -33,8 +33,12 @@
   
 ## Usuarios y roles
 * ¿Quien usa el sistema?
+   El dueño del local y un   trabajador.
+  
 * ¿Todos hacen lo mismo?
+   Si, accederan a la misma informacion.
 * ¿Hay permisos?
+   Si, un login donde pondran digitar    los datos para acceder unicamente ellos y nadie mas.
 
 ## Información manejada
 * ¿Que datos son críticos?
