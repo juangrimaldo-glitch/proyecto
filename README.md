@@ -42,4 +42,7 @@
 
 ## Información manejada
 * ¿Que datos son críticos?
+   Permisos del usuario, los precios correctos de los productos, el nombre del producto para        evitar que se duplique y la cantidad en stok para evitar que se marquen ventas inexistentes.
+  
 * ¿Que no se puede perder?
+   las ventas realizadas, los precios y nombres establecidos para los productos.
