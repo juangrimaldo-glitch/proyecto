@@ -1,46 +1,43 @@
-#Arquitectura del sistema: tienda SC
-##Entrada(Input)
-●¿Qué datos recibe el sistema?
-producto,precio y cantidad 
-● ¿Quién los ingresa?
-administradores 
-● ¿Son números, texto, archivos?
-números y texto
+# Arquitectura del sistema: Tienda SC
+## Entradas (Inputs)
+*¿Que datos recibe el sistema? 
+productos, precio y cantidad.
 
+*¿Quien lo ingresa?
+Administradores.
 
-##procesos()
-● ¿Qué hace el sistema con esos datos?
- controla organiza y gestionar los productos del negocio
-● ¿Valida?
-mostrar el stock de los productos disponibles
-● ¿Calcula?
-Calcula la cantidad de producto que queda y las ganancias 
-● ¿Guarda?
-todos los datos del producto 
+*¿Son numeros,texto,archivos?
+Numeros y texto.
 
+## Procesos (Througput)
+*¿Que hace el sistema con esos datos?
+Controla, organiza y gestiona los productos del negocio.
 
-##salidas()
-● ¿Qué obtiene el usuario?
-obtiene un control en el inventario del local 
-● ¿Qué genera el sistema?
-un listado de los datos de los productos 
-● ¿Permite tomar decisiones?
-si, por que el administrador notaria que productos se venden más y abasteceria de los productos necesarios 
+*¿Valida?
+Nombre de los productos, que se usen numeros para el precio y la cantidad de stock.
 
+*¿Calcula?
+Calcula la cantidad de producto que queda y las ganancias.
 
-##usuarios y roles ()
-● ¿Quién usa el sistema?
-● ¿Todos hacen lo mismo?
-● ¿Hay permisos?
+*¿Guarda?
+datos del administrador, todos los datos del producto.
 
-información ()
-● ¿Qué datos son críticos?
-● ¿Qué no se puede perder?
+## Salidas (Outputs)
+*¿Que obtiene el usuario?
+Un control en el inventario del local.
 
+*¿Que genera el sistema?
+Un listado de los datos de los productos.
 
+*¿Permite tomar decisiones?
+Si, porque el administrador notaria que productos se venden mas y se abasteceria de los productos necesarios.
 
+## Usuarios y Roles
+*¿Quien usa el sitema?
+El dueño del local y un trabajador.
 
+*¿Todos hacen lo mismo?
+Si, accederan a la misma informacion.
 
-
-
-##información manejada 
+*¿Hay permisos?
+Si, un login donde pondran digitar los datos para acceder unicamente ellos y nadie mas.
