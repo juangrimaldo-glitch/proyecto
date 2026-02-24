@@ -13,7 +13,7 @@
    Controla, organiza y gestiona       los productos.
   
 * ¿Valida?
-   Mostrar el stock de los             productos.
+   Nombre de los productos, que usen numeros para el precio y la cantidad de stock.
   
 * ¿Calcula?
    Calcula la cantidad del producto    que queda y las ganancias.
