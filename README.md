@@ -2,7 +2,7 @@
 
 ## Entrada(imputs)
 * ¿Que datos recibe el sistema?
-   Datos del administrador,            productos, precios y cantidad.
+   productos, precios y cantidad.
 * ¿Quien los ingresa?
    Administradores.
 * ¿Son numeros, texto, archivos?
