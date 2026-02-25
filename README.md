@@ -23,4 +23,12 @@
 * ¿Guarda?
    Datos del Administrador, todos      los datos del producto.
 
-
+  ## Salida(outputs)
+* ¿Que optiene el usuario?
+   Control en el inventario del        local.
+  
+* ¿Que genera el sistema?
+   Un listado de los datos de los      productos.
+  
+* ¿Permite tomar decisiones?
+   Si, porque notaria que productos    se venden mas y se abasteceria      de los productos necesarios.
