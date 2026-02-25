@@ -3,8 +3,24 @@
 ## Entrada(imputs)
 * ¿Que datos recibe el sistema?
    productos, precios y cantidad.
+  
 * ¿Quien los ingresa?
    Administradores.
+  
 * ¿Son numeros, texto, archivos?
    Numeros y texto.
+
+  ## Procesos(Throughput)
+* ¿Que hace el sistema con esos       datos?
+   Controla, organiza y gestiona       los productos.
+  
+* ¿Valida?
+   Nombre de los productos, que usen numeros para el precio y la cantidad de stock.
+  
+* ¿Calcula?
+   Calcula la cantidad del producto    que queda y las ganancias.
+  
+* ¿Guarda?
+   Datos del Administrador, todos      los datos del producto.
+
 
