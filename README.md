@@ -30,4 +30,13 @@ calcula la cantidad de productos que queda y las ganacias.
 * ¿Permite tomar decisiones?
   si, porque el administrador notaria que productos se venden mas y se abasteseria mas de los      productos necesarios.
 
+## Usuarios y Roles
+* ¿Quien usa el sitema?
+  El dueño del local y un trabajador.
+
+* ¿Todos hacen lo mismo?
+  Si, accederan a la misma informacion.
+
+* ¿Hay permisos?
+ Si, un login donde pondran digitar los datos para acceder unicamente ellos y nadie mas.
 
