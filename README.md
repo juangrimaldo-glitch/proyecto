@@ -8,3 +8,16 @@ Administradores.
 
 *¿Son numeros,texto,archivos?
 Numeros y texto.
+
+## Procesos (Througput)
+*¿Que hace el sistema con esos datos?
+Controla, organiza y gestiona los productos del negocio.
+
+*¿Valida?
+Nombre de los productos, que se usen numeros para el precio y la cantidad de stock.
+
+*¿Calcula?
+Calcula la cantidad de producto que queda y las ganancias.
+
+*¿Guarda?
+datos del administrador, todos los datos del producto.
