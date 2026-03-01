@@ -21,3 +21,14 @@ Calcula la cantidad de producto que queda y las ganancias.
 
 *¿Guarda?
 datos del administrador, todos los datos del producto.
+
+
+## Salidas (Outputs)
+*¿Que obtiene el usuario?
+Un control en el inventario del local.
+
+*¿Que genera el sistema?
+Un listado de los datos de los productos.
+
+*¿Permite tomar decisiones?
+Si, porque el administrador notaria que productos se venden mas y se abasteceria de los productos necesarios.
