@@ -46,3 +46,9 @@ Si, accederán a la misma información.
 *¿Hay permisos?
 Si, un Loguin donde pondrán digitar los datos para acceder únicamente ellos y nadie mas.
 
+## Información manejada
+*¿Que datos son criticos?
+Permisos del usuario, los precios correctos de los productos, el nombre del producto para evitar que se duplique y la cantidad en stok para evitar que se marquen ventas inexistentes.
+
+*¿Que no se puede perder?
+las ventas realizadas, los precios y nombres establecidos para los productos.
