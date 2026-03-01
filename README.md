@@ -32,3 +32,17 @@ Un listado de los datos de los productos.
 
 *¿Permite tomar decisiones?
 Si, porque el administrador notaria que productos se venden mas y se abasteceria de los productos necesarios.
+
+## Usuarios y Roles
+*¿Quien usa el sistema?
+El dueño del local y un trabajador.
+*
+*
+*
+
+*¿Todos hacen lo mismo?
+Si, accederán a la misma información.
+
+*¿Hay permisos?
+Si, un Loguin donde pondrán digitar los datos para acceder únicamente ellos y nadie mas.
+
