@@ -1,0 +1,59 @@
+@startuml
+
+title Sistema de Gestión de Inventario - Diagrama de Clases
+
+class Producto {
+  - id : int
+  - nombre : String
+  - precio : double
+  - stock : int
+  + actualizarStock(cantidad : int) : void
+  + obtenerPrecio() : double
+}
+
+class Venta {
+  - id : int
+  - fecha : LocalDate
+  - total : double
+  + calcularTotal() : double
+  + obtenerTotal() : double
+}
+
+class DetalleVenta {
+  - cantidad : int
+  - subtotal : double
+  + calcularSubtotal() : double
+}
+
+class SistemaInventario {
+  + registrarProducto(nombre : String, precio : double, stock : int) : void
+  + buscarProducto(id : int) : Producto
+  + registrarVenta(venta : Venta) : void
+  + calcularGananciaDiaria(fecha : LocalDate) : double
+}
+
+' Relaciones
+
+Producto "1" o-- "0..*" DetalleVenta : contiene
+Venta "1" *-- "1..*" DetalleVenta : incluye
+SistemaInventario "1" o-- "0..*" Producto : gestiona
+SistemaInventario "1" o-- "0..*" Venta : registra
+
+' Notas informativas (no clases del sistema)
+
+note right of SistemaInventario
+  == Tecnologías Usadas ==
+  - Internet
+  - Dispositivo
+  - Escaneo QR Producto
+  - Escáner QR
+end note
+
+note left of SistemaInventario
+  == Área General Impactada ==
+  - Operaciones
+  - Finanzas
+  - Dirección Estratégica
+end note
+
+@enduml
