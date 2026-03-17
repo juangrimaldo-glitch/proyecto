@@ -1,0 +1,19 @@
+##¿Qué tipo de sistema están construyendo?
+*TPS: Nuestro sistemas registra operaciones diarias como ventas,actualización de inventario y precios.
+*MIS: genera reportes de ventas y ganancias para apoyar desiciones.
+
+##¿Quiénes serán los usuarios?
+*Analisador: realisa el registro de los productos , los precios y consultará los reportes.
+*Empleado; registra las ventas diarias.
+
+##¿Qué datos manejará el sistema?
+*Productos: nombre,código,precio,cantidad en stock.
+Ventas: fecha,producto vendido,cantidad y el total de ventas.
+*Reporte quinsenal: Ganancia,estadistica de productos más vendidos y menos vendidos.
+
+##¿Qué decisiones apoyará?
+*Determinar que productos rebastecer.
+*Cuales son los productos más vendidos.
+*Mejorar la gestión de inventario.
+*Proyecciones a futuro con las ganancias registradas.
+Ajustar precios acorde de las ventas del producto.
