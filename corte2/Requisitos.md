@@ -1,4 +1,5 @@
 ## REQUERIMIENTOS FUNCIONALES:
+* LOGIN:El sistema debe permitir a los usuarios iniciar sesión mediante credenciales (usuario y contraseña), validando su acceso y permitiendo el uso del sistema según su rol. 
 * GESTION DE PRODUCTOS: El sistema debe permitir registrar el nombre del producto, la cantidad en stock,precio y codigo.
 * PROCESO DE VENTAS: El sistema debe permitir registrar ventas diarias, ingresar datos de la venta (productos, cantidad),validar si hay stock disponible y descontar automaticamente la cantidad vendida.
 * INVENTARIO: El sistema debe permitir actualizar el inventario despues de la venta, mostar la tabla de productos actualizada y controlar la cantidad disponible de cada producto.
@@ -8,7 +9,7 @@
 * MODIFICACION DE PRODUCTOS: El sistema debe editar la información de los productos registrados.
 * ELIMINACION DE PRODUCTOS: El sistema debe permitir eliminar productos del inventario.
 * GESTION DE DEVOLUCIONES: El sistema debe permitir el reingreso automatico al inventario de productos devueltos que esten en buen estado.
-* FACTURACION: El sistema debe generar facturas automáticamente por cada venta realizada, incluyendo información como productos vendidos, cantidades, precios, total a pagar y fecha de la transacción.
+
 
 ## REQUERIMIENTOS NO FUNCIONALES:
 * RENDIMIENTO: El sistema debe actualizar el inventario en tiempo real y las consultas deben responder rapidamente, debe permitir registrar productos sin afectar el uso del sistema al mismo tiempo. .
