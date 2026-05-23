@@ -6,8 +6,18 @@
 <img width="781" height="483" alt="image" src="https://github.com/user-attachments/assets/0dca6e36-6a59-449c-8da2-69d728c1dac7" />
 
 * DICCIONARIO DE DATOS:
-* Tabla de inventario:
+* Tabla de Productos:
 <img width="928" height="181" alt="image" src="https://github.com/user-attachments/assets/9889c0c8-1489-46ee-90c6-9b2a14190771" />
+
+* Tabla de Usuario:
+<img width="1001" height="169" alt="image" src="https://github.com/user-attachments/assets/1f5ee359-b713-4fa5-a57c-dcdcb5626690" />
+
+* Tabla de Ventas:
+<img width="1001" height="169" alt="image" src="https://github.com/user-attachments/assets/431428a6-91c0-4489-a2e7-9ade38be49c8" />
+
+* Tabla Detalle_venta:
+<img width="1001" height="169" alt="image" src="https://github.com/user-attachments/assets/abcec04b-8b37-49be-b9d3-1e0bd1f55700" />
+
 
 ## PROTOTIPO FUNCIONAL
 * VALIDACION DE ENTRADA:
