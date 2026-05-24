@@ -1,6 +1,8 @@
 ## DOCUMENTACION TECNICA
 * CONTEXTO ADMINISTRATIVO: Nuestro sistema utiliza un estructura centralizada, ya que toda la informacionde productos, ventas e inventario, se procesa y almacena en un unico servidor y una sola base de datos central.
 * MODELADO DE ROLES:
+ <img width="1080" height="623" alt="Captura de pantalla 2026-05-23 184947" src="https://github.com/user-attachments/assets/631494b0-7aa9-42ff-a8e8-133769a206d6" />
+
 
 * MATRIZ RACI: 
 <img width="781" height="483" alt="image" src="https://github.com/user-attachments/assets/0dca6e36-6a59-449c-8da2-69d728c1dac7" />
