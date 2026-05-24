@@ -1,7 +1,8 @@
 ## DOCUMENTACION TECNICA
 * CONTEXTO ADMINISTRATIVO: Nuestro sistema utiliza un estructura centralizada, ya que toda la informacionde productos, ventas e inventario, se procesa y almacena en un unico servidor y una sola base de datos central.
 * MODELADO DE ROLES:
- <img width="1080" height="623" alt="Captura de pantalla 2026-05-23 184947" src="https://github.com/user-attachments/assets/631494b0-7aa9-42ff-a8e8-133769a206d6" />
+ <img width="1069" height="615" alt="image" src="https://github.com/user-attachments/assets/9e3435ba-65cb-4ee4-b35d-aef89c1308c4" />
+
 
 
 * MATRIZ RACI: 
@@ -23,6 +24,12 @@
 
 ## PROTOTIPO FUNCIONAL
 * VALIDACION DE ENTRADA:
+  <img width="1339" height="779" alt="image" src="https://github.com/user-attachments/assets/7141ba42-8c86-49f2-8865-374dff44fb38" />
+
+  <img width="1340" height="525" alt="image" src="https://github.com/user-attachments/assets/e18e9183-d0b8-4484-aaff-09cd42ee80b0" />
+
+
+  
 * ARQUITECTURA: 
 <img width="920" height="333" alt="image" src="https://github.com/user-attachments/assets/aefdf503-909f-49f4-aeaa-e4d9ecfba371" />
 
