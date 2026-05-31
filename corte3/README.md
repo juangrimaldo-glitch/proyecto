@@ -6,7 +6,9 @@
 
 
 * MATRIZ RACI: 
-<img width="781" height="483" alt="image" src="https://github.com/user-attachments/assets/0dca6e36-6a59-449c-8da2-69d728c1dac7" />
+<img width="1245" height="816" alt="image" src="https://github.com/user-attachments/assets/af076f39-aa4f-4bfc-8b71-ecacd1eabfc4" />
+
+
 
 * DICCIONARIO DE DATOS:
 * Tabla de Productos:
